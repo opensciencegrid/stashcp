@@ -1,6 +1,8 @@
 StashCP Client
 ==============
 
+## Project is archived.  Development is continued at [OSDF-Client](https://github.com/htcondor/osdf-client)
+
 [![Version][github-release-shield]][github-release]
 ![Go Mod][go-mod-version]
 ![Builds][github-build]
